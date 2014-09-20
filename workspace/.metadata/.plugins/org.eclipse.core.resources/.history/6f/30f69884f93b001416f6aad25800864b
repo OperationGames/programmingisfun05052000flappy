@@ -1,0 +1,7 @@
+package com.operationgames.flappy.math;
+
+public class Vector3f {
+	
+	public float x, y, z;
+
+}

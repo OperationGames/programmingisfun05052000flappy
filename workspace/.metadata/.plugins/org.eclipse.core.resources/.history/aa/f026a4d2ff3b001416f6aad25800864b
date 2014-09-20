@@ -1,0 +1,5 @@
+package com.operationgames.flappy.util;
+
+public class FileUtils {
+
+}
